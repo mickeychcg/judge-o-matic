@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+.brand-font {
+  font-family: 'Bangers';
+  font-style: italic;
+  color: #1e0d00;
+  -webkit-text-stroke: 1px #ff041c;
+}

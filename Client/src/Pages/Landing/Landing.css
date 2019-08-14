@@ -1,0 +1,26 @@
+.LandingPage .brand-statement {
+  height: 600px;
+  background-image: url('./Images/comicCourt.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 32px;
+}
+
+.LandingPage .brand-statement h2 {
+  margin: 0;
+  font-size: 6rem;
+  font-weight: 300;
+  color: #ffd508;
+}
+
+.LandingPage .brand-statement h3 {
+  margin: 15px 0 0;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #ffffff;
+}
